@@ -1,4 +1,5 @@
 <template>
+<!--  STILL DUMB-->
   <div class="video-box">
     <div class="upload">
       <input id="videoName" type="text" v-model="videoName">
